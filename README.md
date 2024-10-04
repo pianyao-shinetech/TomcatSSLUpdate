@@ -15,3 +15,4 @@
     4. KEYSTORE_PATH=/absolute/path/to/keystore_file
     5. SERVER_XML_PATH=/absolute/path/to/apache-tomcat-10.1.30/conf/server.xml
     6. SSL_PORT=8443
+    7. TOMCAT_HOME=/absolute/path/to/apache-tomcat-10.1.30
